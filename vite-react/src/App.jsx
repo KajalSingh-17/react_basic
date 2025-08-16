@@ -5,7 +5,7 @@ function App() {
 
 
   return (
-  <h1>Chai aur react with kajal</h1>
+  <h1>Very first react + vite code</h1>
   )
 }
 
